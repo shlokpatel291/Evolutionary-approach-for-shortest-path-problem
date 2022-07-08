@@ -30,6 +30,6 @@ Below are photos of the changes that occur after every 100 generation
 
 ![Figure_10](https://user-images.githubusercontent.com/47800401/177937006-46b1490a-1a1a-4f12-a874-71ea9c117f12.png)
 
-#performance
+# Performance
 ![Figure_11](https://user-images.githubusercontent.com/47800401/177937010-1fd20367-888c-4ff7-ac29-040a8e72fb2d.png)
 
