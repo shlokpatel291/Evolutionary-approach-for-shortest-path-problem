@@ -5,7 +5,7 @@ Evolutionary method to find the shortest distance connecting most of the cities(
 
 evolutionary algorithm (EA) is a subset of evolutionary computation,a generic population-based metaheuristic optimization algorithm. An EA uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and selection. Candidate solutions to the optimization problem play the role of individuals in a population, and the fitness function determines the quality of the solutions (see also loss function). Evolution of the population then takes place after the repeated application of the above operators.
 
-# photos
+# Photos
 Below are photos of the changes that occur after every 100 generation 
 
 
